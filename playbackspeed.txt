@@ -1,0 +1,7 @@
+Hi there, I love stremio, this is more a feature request than an issue,
+i would like to have a keyboard shortcut to change the playbackspeed,
+and also a general setting to set the general speed,
+when i am watching anime, sometimes the scenes are too slow for me,
+so i rather watch anime series in 2x,
+specially the really long ones like "one piece".
+thank you so much for your time and effort, like i said i love it.
